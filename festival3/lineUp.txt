@@ -1,0 +1,19 @@
+Megadeth: session 1 at v1
+Def Leppard: session 2 at v1
+Slash: session 3 at v1
+Toto: session 4 at v1
+Five Finger Death Punch: session 5 at v1
+Ghost: session 1 at v2
+Backyard Babies: session 3 at v2
+Torsson: session 6 at v2
+Opeth: session 3 at v3
+The Darkness: session 4 at v3
+Hammerfall: session 4 at v4
+Meshuggah: session 5 at v4
+Airbourne: session 1 at v5
+Dokken: session 2 at v5
+Evergrey: session 3 at v5
+Exodus: session 4 at v5
+The Angels: session 5 at v5
+Exciter: session 6 at v5
+BattleBeast: session 7 at v6
